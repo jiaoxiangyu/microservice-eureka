@@ -20,3 +20,4 @@ microservice-eureka-demo
 
 3、文件authenticatingEurekaServers：添加用户认证的Eureka Server集群，测试失败，无法注册服务，没找到原因，用F版springcloud不知道怎么配置用户认证
 
+版本：jdk-1.8  springboot-1.43  springcloud-Camden.SR4
